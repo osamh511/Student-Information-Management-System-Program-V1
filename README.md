@@ -19,10 +19,10 @@
 
 ## المتطلبات
 - .NET 9.0 (Windows 7.0 Target).
-- SQL Server مع قاعدة بيانات `StudentDB`.
+- SQL Server مع قاعدة بيانات `StudentDB ` & LocalDB .
 - مكتبة `Microsoft.Data.SqlClient`.
 
 ## طريقة التشغيل
-1. تأكد من إعداد قاعدة البيانات وإنشاء الإجراءات المخزنة (`sp_RegisterStudent`, `sp_CheckLogin`).
+1. تأكد من انك مثبت عندك على الجهاز يا SQLServer او  Visual Studio .
 2. افتح المشروع في **Visual Studio**.
 3. شغّل التطبيق، وابدأ من شاشة تسجيل الدخول.
