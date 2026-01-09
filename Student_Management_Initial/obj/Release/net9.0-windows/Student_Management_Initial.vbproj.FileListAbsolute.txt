@@ -1,0 +1,7 @@
+D:\اعمال فيجوال بيسسك\learn_to osamh\program sum\مجلد الحلول الخاصة بي\Student_Management_Initial\Student_Management_Initial\obj\Release\net9.0-windows\Student_Management_Initial.vbproj.AssemblyReference.cache
+D:\اعمال فيجوال بيسسك\learn_to osamh\program sum\مجلد الحلول الخاصة بي\Student_Management_Initial\Student_Management_Initial\obj\Release\net9.0-windows\Student_Management_Initial.frmStudentManagervb.resources
+D:\اعمال فيجوال بيسسك\learn_to osamh\program sum\مجلد الحلول الخاصة بي\Student_Management_Initial\Student_Management_Initial\obj\Release\net9.0-windows\Student_Management_Initial.vbproj.GenerateResource.cache
+D:\اعمال فيجوال بيسسك\learn_to osamh\program sum\مجلد الحلول الخاصة بي\Student_Management_Initial\Student_Management_Initial\obj\Release\net9.0-windows\Student_Management_Initial.GeneratedMSBuildEditorConfig.editorconfig
+D:\اعمال فيجوال بيسسك\learn_to osamh\program sum\مجلد الحلول الخاصة بي\Student_Management_Initial\Student_Management_Initial\obj\Release\net9.0-windows\Student_Management_Initial.AssemblyInfoInputs.cache
+D:\اعمال فيجوال بيسسك\learn_to osamh\program sum\مجلد الحلول الخاصة بي\Student_Management_Initial\Student_Management_Initial\obj\Release\net9.0-windows\Student_Management_Initial.AssemblyInfo.vb
+D:\اعمال فيجوال بيسسك\learn_to osamh\program sum\مجلد الحلول الخاصة بي\Student_Management_Initial\Student_Management_Initial\obj\Release\net9.0-windows\Student_Management_Initial.vbproj.CoreCompileInputs.cache
