@@ -18,7 +18,7 @@
 - **UI Layer**: واجهة المستخدم (WinForms) مع حقن التبعية.
 
 ## المتطلبات
-- .NET 9.0 (Windows 7.0 Target).
+- .NET 9.0 (Windows 7.0 ,Windows 10 Target).
 - SQL Server مع قاعدة بيانات `StudentDB ` & LocalDB .
 - مكتبة `Microsoft.Data.SqlClient`.
 
